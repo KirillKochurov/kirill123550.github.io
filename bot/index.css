@@ -12,5 +12,9 @@
    }
 
    p {
-     font-size: 250%;
+     font-size: 150%;
    }
+
+#lal {
+ boreder: 2px solid #171a1f;
+}
