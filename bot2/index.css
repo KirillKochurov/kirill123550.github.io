@@ -1,0 +1,30 @@
+@charset 'UTF-8';
+
+* {
+ margin: 0;
+ padding: 0;
+}
+
+body {
+   background: #c7b39b; /* Цвет фона и путь к файлу */
+   background-size: cover; /* Фон занимает всю доступную площадь */
+   color: #00000; /* Цвет текста */
+  }
+
+  p {
+    font-size: 150%;
+  }
+
+#lal {
+  border: 2px solid #171a1f;
+}
+
+a {
+  text-decoration: none;
+}
+a:hover {
+  color: #fff;
+}
+#laal {
+  border: 2px solid #fff;
+}
